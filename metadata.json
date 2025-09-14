@@ -1,0 +1,5 @@
+{
+  "name": "Math Exam Prompt Generator",
+  "description": "An application that asks targeted questions to help users generate a personalized and detailed prompt for creating a 100-mark college math exam using AI.",
+  "requestFramePermissions": []
+}
